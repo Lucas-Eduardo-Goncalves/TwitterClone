@@ -1,6 +1,6 @@
 # TwitterClone 
 
-[Link para a aplicação](https://silly-edison-f742da.netlify.app/)
+[Link para a aplicação](https://lucasgoncalves-twitterclone.netlify.app/)
 
 ## Tecnologias utilizadas
 - React
